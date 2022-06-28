@@ -30,7 +30,7 @@ Joueur 1 :
 
 joueur 2 :
 
-        ./navy PID_joueur_1 fichier_position
+    ./navy PID_joueur_1 fichier_position
 
 ## Fabriqué avec
 
